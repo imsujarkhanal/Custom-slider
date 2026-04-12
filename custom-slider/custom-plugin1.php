@@ -10,18 +10,14 @@
 
 if (!defined('ABSPATH')) exit;
 
-/**
- * Register widget
- */
+// Register widget
 function cus_register_service_carousel_widget($widgets_manager) {
     require_once(__DIR__ . '/widgets/custom-widget.php');
     $widgets_manager->register(new \Cus_Service_Carousel_Widget());
 }
 add_action('elementor/widgets/register', 'cus_register_service_carousel_widget');
 
-/**
- * Register assets
- */
+// Register assets
 function cus_register_service_carousel_assets() {
     $css_path = plugin_dir_path(__FILE__) . 'assets/css/style.css';
     $js_path  = plugin_dir_path(__FILE__) . 'assets/js/init.js';
