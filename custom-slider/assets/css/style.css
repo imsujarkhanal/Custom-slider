@@ -157,7 +157,7 @@
     width: 100%;
     max-width: var(--card-width);
     min-height: var(--card-height);
-    border: 1.8px solid var(--border-dark);
+    /* border: 1px solid var(--border-dark); */
     display: flex;
     flex-direction: column;
     overflow: hidden;
