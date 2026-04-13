@@ -47,10 +47,13 @@ This widget combines a feature image and a dynamic slider of service cards, with
 
 To achieve the correct layout from the Figma design:
 
+-Go to settings--> reading--> Your homepage displays --> A Static Page
+
 - Click the page settings (gear icon)
   → Set Page Layout = Elementor Full Width
 
 - Select the main container/section:
+  - Set width to 1440 px.
   - Justify Content = Center
   - Align Items = Center
 
