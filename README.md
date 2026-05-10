@@ -94,7 +94,7 @@ Each card supports:
 <img width="325" height="742" alt="mobile_preview" src="https://github.com/user-attachments/assets/d08a4d13-c5b4-4849-a3e3-618befe48884" />
 
 ---------------------------------------------------------------------------------------------------
-##Motivation
+## Motivation
 
 Found nowhere so built one ;)
 Its cool to tweak your website with any changes that you want either in your existing or new website .So i decided to create a custom carousel on my own. 
