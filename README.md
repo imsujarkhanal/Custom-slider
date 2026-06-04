@@ -1,6 +1,6 @@
 # Custom Elementor Service Carousel
 
-A custom Elementor widget built to recreate a service section carousel from a Figma design.  
+A custom Elementor plugin, carousel widget built to recreate a service section carousel from a Figma design.  
 This widget combines a feature image and a dynamic slider of service cards, with full control from the Elementor editor.
 
 ------------------------------------------------------------------------------------------------
